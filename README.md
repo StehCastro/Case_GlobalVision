@@ -1,16 +1,16 @@
-📊 GlobalVision Systems & Data Intern - Análise de Dados Salesforce
+ GlobalVision Systems & Data Intern - Análise de Dados Salesforce
 <div align="center">
 
 </div>
-📋 Descrição do Projeto
+ Descrição do Projeto
 Análise estratégica de dados de suporte técnico extraídos do Salesforce para identificar oportunidades de otimização e melhorias operacionais.
 
 🎯 Objetivos
 <div style="background: #f5f5f5; padding: 15px; border-radius: 10px; margin: 10px 0;">
-🎯 Análise de Eficiência - Medir performance do time de suporte
-📊 Identificação de Problemas - Detectar produtos com maior complexidade
-🔄 Otimização de Recursos - Melhorar alocação da equipe
-💡 Insights Acionáveis - Gerar recomendações baseadas em dados
+ Análise de Eficiência - Medir performance do time de suporte
+ Identificação de Problemas - Detectar produtos com maior complexidade
+ Otimização de Recursos - Melhorar alocação da equipe
+ Insights Acionáveis - Gerar recomendações baseadas em dados
 
 </div>
 🛠️ Stack Tecnológica
@@ -25,7 +25,7 @@ project/
 ├── 📸 visualizations/                  # Gráficos gerados
 └── 📖 README.md                        # Documentação
 
-🚀 Instalação e Execução
+ Instalação e Execução
 Pré-requisitos
 bash
 pip install pandas matplotlib seaborn pandasql
